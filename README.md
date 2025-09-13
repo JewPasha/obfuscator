@@ -29,8 +29,8 @@ The program is written in Python and is meant to be used on Linux.
 ### Host
 if you put in terminal
 ``nc -lvp 4444 ``
-![image](https://github.com/JewPasha/obfuscator/tree/main/images/host.png)
+![image](https://github.com/JewPasha/obfuscator/blob/main/images/host.png)
 
 ### Client
-![image](https://github.com/JewPasha/obfuscator/tree/main/images/client.png)
+![image](https://github.com/JewPasha/obfuscator/blob/main/images/client.png)
 
